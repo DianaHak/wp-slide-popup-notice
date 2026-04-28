@@ -7,7 +7,7 @@ This snippet adds a modern notification card that slides in from the left side o
 ## 📸 Preview
 
 <p>
-  <img src="assets/screenshot-1.png" width="500" />
+  <img src="assets/Screenshot-1.png" width="500" />
 </p>
 
 ---
