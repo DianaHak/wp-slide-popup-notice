@@ -4,6 +4,9 @@ A lightweight, clean, and customizable slide-in popup for WordPress.
 
 This snippet adds a modern notification card that slides in from the left side of the screen after a short delay. It is designed to be minimal, non-intrusive, and reusable across different themes.
 
+## 📸 Preview
+
+![Slide Popup Preview](screenshot_1.png)
 ---
 
 ## ✨ Features
