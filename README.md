@@ -6,7 +6,7 @@ This snippet adds a modern notification card that slides in from the left side o
 
 ## 📸 Preview
 
-![Slide Popup Preview](./assets/screenshot-4.png)
+![Slide Popup Preview](./assets/screenshot-1.png)
 ---
 
 ## ✨ Features
