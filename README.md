@@ -40,16 +40,6 @@ This snippet adds a modern notification card that slides in from the left side o
 
 ---
 
-## 🎨 Customization
-
-### Change text
-
-Edit this part:
-
-<h3>Just a quick note</h3>
-<p>Your text here...</p>
-
----
 
 ### Change position
 
